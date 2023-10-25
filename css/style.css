@@ -1,0 +1,27 @@
+
+        .film-list {
+            list-style: none;
+            padding: 0;
+        }
+        .film-item {
+            cursor: pointer;
+            margin: 10px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            display: inline-block;
+        }
+        .movie-info {
+            display: none;
+        }
+    .film-list{
+        color: blueviolet;
+        border-color: yellow;
+    }
+    .film-item{
+color: blue;
+    }
+.h1{
+    color: rgb(3, 49, 90);
+
+}
+    
