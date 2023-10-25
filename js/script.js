@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-            const filmsUrl = 'http://localhost:3000/films'; 
+            const filmsUrl = 'https://my-json-server.typicode.com/asiagovincent/week3codechallenge/films'; 
 
             
             fetch(filmsUrl)
